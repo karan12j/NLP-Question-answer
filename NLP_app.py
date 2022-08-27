@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 29 01:30:39 2021
 
-@author: anmol
-"""
-
-#pip install transformers
-#conda install -c huggingface tokenizers
 from transformers import pipeline
 import dash
 import dash_html_components as html
